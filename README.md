@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, soy Pedro Aristigueta</h1>
-<h3 align="center">Soy un desarrollado Full Stack, vivo en Lima Perú, apasionado por la tecnología desde los 13 años de edad. Mi primer lenguaje fue JavaScript</h3>
-
-- 🌱 Actualmente estoy aprendiendo **React Native**
+<h3 align="center">Soy un desarrollado Full Stack, vivo en Lima Perú, apasionado por la tecnología desde los 13 años de edad. Mi lenguaje favorito es TypeScript</h3>.
 
 - 📫 Contáctame **aristiguetam97@gmail.com**
 

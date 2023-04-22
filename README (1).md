@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Pedro Aristigueta</h1>
-<h3 align="center">Soy un desarrollado Full Stack, vivo en Lima Perú, apasionado por la tecnología desde los 13 años de edad. Mi primer lenguaje fue JavaScript</h3>
+<!-- @format -->
 
-- 🌱 Actualmente estoy aprendiendo **React Native, TypeScript**
+<h1 align="center">Hola 👋, soy Pedro Aristigueta</h1>
+<h3 align="center">Soy un desarrollado Full Stack, vivo en Lima Perú, apasionado por la tecnología desde los 13 años de edad. Mi lenguaje favorito es TypeScript</h3>.
 
 - 📫 Contáctame **aristiguetam97@gmail.com**
 
@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aristiguetam&show_icons=true&locale=en" alt="aristiguetam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aristiguetam&" alt="aristiguetam" /></p>
-
